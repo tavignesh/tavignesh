@@ -55,6 +55,37 @@ Telegram - Comming Soon<br>
 **Languages, Software n Tools I Use**<br>
 <br><br>
 <code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/856772702421647380/pycharm.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371362066759690/intelj.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371447036018728/webstorm.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371439023456306/u4e.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371438155104266/unity.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371438423670824/vsc.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371432041381898/tightvnc.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371427267346452/terinal.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371422826627092/strmlabs.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371419377991710/stckovr.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371415884529676/python.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371408909533214/premierpro.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371407704457226/phpstorm.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371381922463774/php.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371375913074698/npp.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371370748575754/nodejs.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371370573725696/mspaint.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371364272570378/js.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371357580034058/html5.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371353259376650/github1.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371347542933564/git.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371341846937610/filezilla.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371338477600788/css3.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371330908454913/cocos.jpg" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371328613253140/c4d.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371321256312842/c.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371321680592916/c.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371310674083870/brave.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371303704068116/anydesk.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371298208219187/anaconda.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371295935430666/afterfx.png" /></code>
+
 
 ***
 <br><br>
