@@ -34,7 +34,7 @@ My Github Stats:<br>
   <img src="https://github-readme-stats.vercel.app/api?username=tavignesh&hide=issues,stars&count_private=true&show_icons=true&theme=tokyonight" alt="shwetangStats" />  
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavignesh&layout=compact&theme=dark&langs_count=10" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavignesh&layout=compact&theme=dark&langs_count=10&theme=tokyonight" alt="top-langs" />
 </p>
 <br><br>
 Usefull Links:<br>
