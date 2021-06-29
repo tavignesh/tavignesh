@@ -9,19 +9,21 @@ I am a Gamer and love to play PC games. Wanna Play with me? Join me on [YouTube]
 🌱 I’m currently learning java.<br>
 💬 Ask me about anything i will try my best to help you out!!<br>
 <br><br>
-:heartpulse: Things I love the Most:<br>
-:controller: Gaming<br>
-:smthing: Programming<br>
-:detective: Hacking<br>
-Movies<br>
-:notes: Songs<br>
-Sleeping<br>
-Outdoor Games (Basketball, Badminton, Football, Volleyball)<br>
+💗 Things I love the Most:<br>
+🎮 Gaming<br>
+🖥️ Programming<br>
+🕵️ Hacking<br>
+🎞️ Movies<br>
+🎶 Songs<br>
+💤 Sleeping<br>
+🏀 Outdoor Games (Basketball, Badminton, Football, Volleyball)<br>
 A lot more OfC : ) <br>
 <br><br>
 📫 How to reach me:<br>
-Discord - https://discord.gg/pDzrEyGpxE (Most Active)<br>
-Mail - tavignesh2004@gmail.com (I always see my mails)<br>
+Discord - [Discord Server](https://discord.gg/pDzrEyGpxE) (Most Active)<br>
+Mail 1 - tavignesh2004@gmail.com (I always see my mails)<br>
+Mail 2 - vignesh@asteroidbot.xyz (I always see my mails)<br>
+Website - [asteroidbot.xyz](https://asteroidbot.xyz)
 YouTube -  (2nd Most active)<br>
 Twitch - Comming Soon<br>
 Instagram - https://instagram.com/h4k3r_vignesh_ta (3rd Most active)<br>
