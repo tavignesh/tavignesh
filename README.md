@@ -31,10 +31,10 @@ Telegram - Comming Soon<br>
 <br>
 My Github Stats:<br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tavignesh&theme=dark&show_icons=true" alt="shwetangStats" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=tavignesh&hide=issues,stars&count_private=true&show_icons=true&theme=tokyonight" alt="shwetangStats" />  
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavignesh&layout=compact&theme=dark" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavignesh&layout=compact&theme=dark&langs_count=10" alt="top-langs" />
 </p>
 <br><br>
 Usefull Links:<br>
@@ -89,7 +89,7 @@ Telegram - Comming Soon<br>
 
 ***
 <br><br>
-*NOTE: 'Most Used Languages' or 'tools used'  or any other info does not indicate my skill level or anything like that, it's just a github metric of which languages I have the most code on github's Public Repositories.<br>Also the commits are only indicating my public repositories, i have more than 10 times in my private ones...*
+*NOTE: 'Most Used Languages' or 'tools used'  or any other info does not indicate my skill level or anything like that, it's just a github metric of which languages I have the most code on github.*
 <br>
 <p align="center"> 
   Visitor Counter<br>
