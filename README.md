@@ -42,12 +42,12 @@ My Github Stats:<br>
 Usefull Links:<br>
 Discord - Vignesh_x64ᴰᵉᵛ#8888 <br>
 Website - <a href="https://asteroidbot.xyz">AsteroidBot.xyz</a><br>
-Discord Server 1 - [Asteroid Support](https://discord.gg/pDzrEyGpxE)<br>
+Discord Server 1 - <a href="https://discord.gg/pDzrEyGpxE">Asteroid Support</a><br>
 Discord Server 2 - [Asteroid Gaming]()<br>
 Youtube - [Asteroid Gaming]()<br>
 Discord Bot 1 - [Asteroid]()<br>
 Discord Bot 2 - [Asteroid Music]()<br>
-Mail 1 - tavignesh2004@gmail.com<br>
+Mail 1 - <a href="mailto:tavignesh@gmail.com">Asteroid Support</a><br>tavignesh2004@gmail.com<br>
 Mail 2 - vignesh@asteroidbot.xyz<br>
 Instagram - [h4k3r_vignesh_ta](https://instagram.com/h4k3r_vignesh_ta)<br>
 Twitch - Comming Soon<br>
