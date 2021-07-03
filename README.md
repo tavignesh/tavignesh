@@ -40,8 +40,8 @@ My Github Stats:<br>
 </p>
 <br><br>
 Usefull Links:<br>
-Discord - dscprofile username<br>
-Website - [https://asteroidbot.xyz](https://asteroidbot.xyz)<br>
+Discord - Vignesh_x64ᴰᵉᵛ#8888 <br>
+Website - <a href="https://asteroidbot.xyz">AsteroidBot.xyz</a><br>
 Discord Server 1 - [Asteroid Support](https://discord.gg/pDzrEyGpxE)<br>
 Discord Server 2 - [Asteroid Gaming]()<br>
 Youtube - [Asteroid Gaming]()<br>
