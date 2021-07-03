@@ -47,9 +47,9 @@ Discord Server 2 - [Asteroid Gaming]()<br>
 Youtube - [Asteroid Gaming]()<br>
 Discord Bot 1 - [Asteroid]()<br>
 Discord Bot 2 - [Asteroid Music]()<br>
-Mail 1 - <a href="mailto:tavignesh@gmail.com">Asteroid Support</a><br>tavignesh2004@gmail.com<br>
-Mail 2 - vignesh@asteroidbot.xyz<br>
-Instagram - [h4k3r_vignesh_ta](https://instagram.com/h4k3r_vignesh_ta)<br>
+Mail 1 - <a href="mailto:tavignesh@gmail.com">tavignesh2004@gmail.com</a><br>
+Mail 2 - <a href="mailto:vignesh@asteroidbot.xyz">vignesh@asteroidbot.xyz</a><br>
+Instagram - <a href="https://instagram.com/h4k3r_vignesh_ta">h4k3r_vignesh_ta</a><br>
 Twitch - Comming Soon<br>
 Facebook - Comming Soon<br>
 Telegram - Comming Soon<br>
