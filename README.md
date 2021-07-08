@@ -97,4 +97,4 @@ Telegram - Comming Soon<br>
   Visitor Counter<br>
   <img src="https://profile-counter.glitch.me/tavignesh/count.svg" />
 </p>
-<center><a href="https://asteroidbot.xyz"><img src="https://discordapp.com/api/guilds/780625655657791518/widget.png?style=banner4"></a>
+<center><a href="https://discord.gg/pDzrEyGpxE"><img src="https://discordapp.com/api/guilds/780625655657791518/widget.png?style=banner4"></a>
