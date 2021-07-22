@@ -87,7 +87,7 @@ Telegram - Comming Soon<br>
 <code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371303704068116/anydesk.png" /></code>
 <code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371298208219187/anaconda.png" /></code>
 <code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371295935430666/afterfx.png" /></code>
-
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/867631248112091196/ptero.png" /></code>
 
 ***
 <br><br>
