@@ -1,6 +1,6 @@
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Vignesh</a></h2>
 <br><br>
-I am Vignesh.T.A from India and thats my real pfp taken a few years ago :) <br>
+I am Vignesh.T.A from India.<br>
 I code out of interest for fun and have developed a [Discord Bot - Asteroid](https://discord.gg/pDzrEyGpxE) with Python and JavaScript both!!<br>
 I am a Gamer and love to play PC games. Wanna Play with me? Join me on [YouTube](link)<br>
 <br><br>
