@@ -62,7 +62,7 @@ My websites (Fully or Partially):<br>
 <a href="https://vignesh.stop-using.cf">vignesh.stop-using.cf</a><br>
 
 <br><br>
-<b>Languages, Software n Tools I Use<\b><br>
+<b>Languages, Software n Tools I Use</b><br>
 <br><br>
 <code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/856772702421647380/pycharm.png" /></code>
 <code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371362066759690/intelj.png" /></code>
