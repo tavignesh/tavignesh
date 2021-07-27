@@ -54,6 +54,14 @@ Twitch - Comming Soon<br>
 Facebook - Comming Soon<br>
 Telegram - Comming Soon<br>
 <br><br>
+My websites (Fully or Partially):
+<a href="https://asteroidbot.xyz">AsteroidBot.xyz</a><br>
+<a href="https://tavignesh.github.io">tavignesh.github.io</a><br>
+<a href="https://tavignesh.thedev.id">tavignesh.thedev.id</a><br>
+<a href="https://tavignesh.is-a.dev">tavignesh.is-a.dev</a><br>
+<a href="https://vignesh.stop-using.cf">vignesh.stop-using.cf</a><br>
+
+<br><br>
 <b>Languages, Software n Tools I Use<b><br>
 <br><br>
 <code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/856772702421647380/pycharm.png" /></code>
