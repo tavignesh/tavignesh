@@ -54,7 +54,7 @@ Twitch - Comming Soon<br>
 Facebook - Comming Soon<br>
 Telegram - Comming Soon<br>
 <br><br>
-My websites (Fully or Partially):
+My websites (Fully or Partially):<br>
 <a href="https://asteroidbot.xyz">AsteroidBot.xyz</a><br>
 <a href="https://tavignesh.github.io">tavignesh.github.io</a><br>
 <a href="https://tavignesh.thedev.id">tavignesh.thedev.id</a><br>
