@@ -20,13 +20,13 @@ I am a Gamer and love to play PC games. Wanna Play with me? Join me on [YouTube]
 A lot more OfC : ) <br>
 <br><br>
 📫 How to reach me:<br>
-Discord - [Discord Server](https://discord.gg/pDzrEyGpxE) (Most Active)<br>
-Mail 1 - tavignesh2004@gmail.com (I always see my mails)<br>
-Mail 2 - vignesh@asteroidbot.xyz (I always see my mails)<br>
-Website - [asteroidbot.xyz](https://asteroidbot.xyz)
+Discord - <a href="https://discord.gg/pDzrEyGpxE">Discord Server</a>(Most Active)<br>
+Mail 1 - <a href="mailto:tavignesh@gmail.com">tavignesh2004@gmail.com</a> (I always see my mails)<br>
+Mail 2 - <a href="mailto:vignesh@asteroidbot.xyz">vignesh@asteroidbot.xyz</a><br>
+Website - <a href="https://asteroidbot.xyz">AsteroidBot.xyz</a><br>
 YouTube -  (2nd Most active)<br>
 Twitch - Comming Soon<br>
-Instagram - https://instagram.com/h4k3r_vignesh_ta (3rd Most active)<br>
+Instagram - <a href="https://instagram.com/h4k3r_vignesh_ta">h4k3r_vignesh_ta</a> (3rd Most active)<br>
 Facebook - Comming Soon<br>
 Telegram - Comming Soon<br>
 <br><br>
