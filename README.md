@@ -43,7 +43,7 @@ Usefull Links:<br>
 Discord - Vignesh_x64ᴰᵉᵛ#8888 <br>
 Website - <a href="https://asteroidbot.xyz">AsteroidBot.xyz</a><br>
 Discord Server 1 - <a href="https://discord.gg/pDzrEyGpxE">Asteroid Support</a><br>
-Discord Server 2 - [Asteroid Gaming]()<br>
+Discord Server 2 - <a href="https://discord.gg/GWzQ5zqQeS">Asteroid Gaming</a><br>
 Youtube - [Asteroid Gaming]()<br>
 Discord Bot 1 - [Asteroid]()<br>
 Discord Bot 2 - [Asteroid Music]()<br>
@@ -62,7 +62,7 @@ My websites (Fully or Partially):<br>
 <a href="https://vignesh.stop-using.cf">vignesh.stop-using.cf</a><br>
 
 <br><br>
-<b>Languages, Software n Tools I Use<b><br>
+<b>Languages, Software n Tools I Use<\b><br>
 <br><br>
 <code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/856772702421647380/pycharm.png" /></code>
 <code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371362066759690/intelj.png" /></code>
@@ -99,7 +99,7 @@ My websites (Fully or Partially):<br>
 
 ***
 <br><br>
-*NOTE: 'Most Used Languages' or 'tools used'  or any other info does not indicate my skill level or anything like that, it's just a github metric of which languages I have the most code on github.*
+<b>NOTE: 'Most Used Languages' or 'tools used'  or any other info does not indicate my skill level or anything like that, it's just a github metric of which languages I have the most code on github.</b>
 <br>
 <p align="center"> 
   Visitor Counter<br>
