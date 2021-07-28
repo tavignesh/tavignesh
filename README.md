@@ -59,6 +59,8 @@ My websites (Fully or Partially):<br>
 <a href="https://tavignesh.github.io">tavignesh.github.io</a><br>
 <a href="https://tavignesh.thedev.id">tavignesh.thedev.id</a><br>
 <a href="https://tavignesh.is-a.dev">tavignesh.is-a.dev</a><br>
+<a href="https://tavignesh.ml">tavignesh.cf</a><br>
+<a href="https://tavignesh.tk">tavignesh.tk</a><br>
 <a href="https://vignesh.stop-using.cf">vignesh.stop-using.cf</a><br>
 
 <br><br>
