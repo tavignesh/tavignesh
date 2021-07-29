@@ -14,7 +14,8 @@ That profile image is my real photo :) <br>
 💬 Ask me about anything i will try my best to help you out!!<br>
 💗 IDK why but I fork all the repositories I like and think I can use it.<br>
 <br><br>
-💗 Things I love the Most:<br>
+
+💗 <b>Things I love the Most:</b><br>
 🎮 Gaming<br>
 🖥️ Programming<br>
 🕵️ Hacking<br>
@@ -24,7 +25,7 @@ That profile image is my real photo :) <br>
 🏀 Outdoor Games (Basketball, Badminton, Football, Volleyball)<br>
 A lot more OfC : ) <br>
 <br><br>
-📫 How to reach me:<br>
+📫 <b>How to reach me:</b><br>
 Discord - <a href="https://discord.gg/pDzrEyGpxE">Discord Server</a>(Most Active)<br>
 Mail 1 - <a href="mailto:tavignesh@gmail.com">tavignesh2004@gmail.com</a> (I always see my mails)<br>
 Mail 2 - <a href="mailto:vignesh@asteroidbot.xyz">vignesh@asteroidbot.xyz</a><br>
@@ -36,7 +37,7 @@ Facebook - Comming Soon<br>
 Telegram - Comming Soon<br>
 <br><br>
 <br>
-My Github Stats:<br>
+<b>My Github Stats:</b><br>
 <p align="left">
   <img src="https://raw.githubusercontent.com/tavignesh/github-stats-1/cff839c0b2cb6c6c7600142a1e899d730c691b04/generated/overview.svg" alt="shwetangStats" />  
   <br />
@@ -44,7 +45,7 @@ My Github Stats:<br>
   <img src="https://raw.githubusercontent.com/tavignesh/github-stats-1/cff839c0b2cb6c6c7600142a1e899d730c691b04/generated/languages.svg" alt="top-langs" />
 </p>
 <br><br>
-Usefull Links:<br>
+<b>Usefull Links:</b><br>
 Discord - Vignesh_x64ᴰᵉᵛ#8888 <br>
 Website - <a href="https://asteroidbot.xyz">AsteroidBot.xyz</a><br>
 Discord Server 1 - <a href="https://discord.gg/pDzrEyGpxE">Asteroid Support</a><br>
@@ -59,7 +60,7 @@ Twitch - Comming Soon<br>
 Facebook - Comming Soon<br>
 Telegram - Comming Soon<br>
 <br><br>
-My websites (Fully or Partially):<br>
+<b>My websites (Fully or Partially):</b><br>
 <a href="https://asteroidbot.xyz">AsteroidBot.xyz</a><br>
 <a href="https://tavignesh.github.io">tavignesh.github.io</a><br>
 <a href="https://tavignesh.thedev.id">tavignesh.thedev.id</a><br>
