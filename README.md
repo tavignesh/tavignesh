@@ -35,7 +35,7 @@ Telegram - Comming Soon<br>
 <br>
 My Github Stats:<br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tavignesh&hide=issues,stars&count_private=true&show_icons=true&theme=tokyonight" alt="shwetangStats" />  
+  <img src="https://raw.githubusercontent.com/tavignesh/github-stats-1/cff839c0b2cb6c6c7600142a1e899d730c691b04/generated/overview.svg" alt="shwetangStats" />  
   <br />
   <br />
   <img src="https://raw.githubusercontent.com/tavignesh/github-stats-1/cff839c0b2cb6c6c7600142a1e899d730c691b04/generated/languages.svg" alt="top-langs" />
