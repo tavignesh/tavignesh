@@ -12,7 +12,7 @@ That profile image is my real photo :) <br>
 🔭 I’m currently working on a handfull projects of which Asteroid is one.<br>
 🌱 I’m currently learning java.<br>
 💬 Ask me about anything i will try my best to help you out!!<br>
-💗 IDK why but I fork all the repositories I like and think I can use it.<br>
+💗 IDK why but I fork all the repositories I feel I can use it.<br>
 <br><br>
 
 💗 <b>Things I love the Most:</b><br>
