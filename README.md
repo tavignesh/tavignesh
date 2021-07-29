@@ -43,6 +43,9 @@ Telegram - Comming Soon<br>
   <br />
   <br />
   <img src="https://raw.githubusercontent.com/tavignesh/github-stats-1/cff839c0b2cb6c6c7600142a1e899d730c691b04/generated/languages.svg" alt="top-langs" />
+  <br />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tavignesh&theme=react&ring=2BDD18&fire=DD2727&currStreakLabel=DD4D5E&sideLabels=DD636E" alt="streak" />
 </p>
 <br><br>
 <b>Usefull Links:</b><br>
