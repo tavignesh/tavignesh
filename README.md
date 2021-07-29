@@ -37,7 +37,7 @@ Telegram - Comming Soon<br>
 <br><br>
 <br>
 My Github Stats:<br>
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/tavignesh/github-stats-1/cff839c0b2cb6c6c7600142a1e899d730c691b04/generated/overview.svg" alt="shwetangStats" />  
   <br />
   <br />
