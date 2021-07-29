@@ -1,4 +1,7 @@
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Vignesh</a></h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=04F2F7&lines=Developer+Developing+Development;Gamer+Gaming+Game;Enjoyer+Enjoying+Enjoyment">
+</p>
 <br><br>
 I am Vignesh.T.A from India.<br>
 I code out of interest for fun and have developed a <a href="https://discord.gg/pDzrEyGpxE">Discord Bot - Asteroid</a> with Python and JavaScript both!!<br>
