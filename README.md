@@ -1,13 +1,14 @@
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Vignesh</a></h2>
 <br><br>
 I am Vignesh.T.A from India.<br>
-I code out of interest for fun and have developed a [Discord Bot - Asteroid](https://discord.gg/pDzrEyGpxE) with Python and JavaScript both!!<br>
+I code out of interest for fun and have developed a <a href="https://discord.gg/pDzrEyGpxE">Discord Bot - Asteroid</a> with Python and JavaScript both!!<br>
 I am a Gamer and love to play PC games. Wanna Play with me? Join me on [YouTube](link)<br>
 <br><br>
 🔭 I know a handfull of programming languages and am a hobbyist in electronics and Arduino projects.<br>
 🔭 I’m currently working on a handfull projects of which Asteroid is one.<br>
 🌱 I’m currently learning java.<br>
 💬 Ask me about anything i will try my best to help you out!!<br>
+💗 IDK why but I fork all the repositories I like and think I can use it.<br>
 <br><br>
 💗 Things I love the Most:<br>
 🎮 Gaming<br>
