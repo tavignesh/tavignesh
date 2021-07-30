@@ -38,14 +38,6 @@ Facebook - Comming Soon<br>
 Telegram - Comming Soon<br>
 <br><br>
 <br>
-<b>My Github Stats:</b><br>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/tavignesh/github-stats-1/master/generated/overview.svg" alt="shwetangStats" />  
-  <br />
-  <br />
-  <img src="https://raw.githubusercontent.com/tavignesh/github-stats-1/master/generated/languages.svg" alt="top-langs" />
-</p>
-<br><br>
 <b>Usefull Links:</b><br>
 Discord - Vignesh_x64ᴰᵉᵛ#8888 <br>
 Website - <a href="https://asteroidbot.xyz">AsteroidBot.xyz</a><br>
@@ -106,7 +98,18 @@ Telegram - Comming Soon<br>
 <code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371295935430666/afterfx.png" /></code>
 <code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/867631248112091196/ptero.png" /></code>
 
-***
+<b>My Github Stats:</b><br>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/tavignesh/github-stats-1/master/generated/overview.svg" alt="shwetangStats" />  
+  <br />
+  <br />
+  <img src="https://raw.githubusercontent.com/tavignesh/github-stats-1/master/generated/languages.svg" alt="top-langs" />
+  <br />
+  <br />
+  <img src="https://github.com/tavignesh/metrics/blob/master/github-metrics.svg" alt="stats" />
+</p>
+<br><br>
+
 <br><br>
 <b>NOTE: 'Most Used Languages' or 'tools used'  or any other info does not indicate my skill level or anything like that, it's just a github metric of which languages I have the most code on github.</b>
 <br>
