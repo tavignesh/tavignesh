@@ -40,10 +40,10 @@ Telegram - Comming Soon<br>
 <br>
 <b>My Github Stats:</b><br>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/tavignesh/github-stats-1/cff839c0b2cb6c6c7600142a1e899d730c691b04/generated/overview.svg" alt="shwetangStats" />  
+  <img src="https://raw.githubusercontent.com/tavignesh/github-stats-1/master/generated/overview.svg" alt="shwetangStats" />  
   <br />
   <br />
-  <img src="https://raw.githubusercontent.com/tavignesh/github-stats-1/cff839c0b2cb6c6c7600142a1e899d730c691b04/generated/languages.svg" alt="top-langs" />
+  <img src="https://raw.githubusercontent.com/tavignesh/github-stats-1/master/generated/languages.svg" alt="top-langs" />
 </p>
 <br><br>
 <b>Usefull Links:</b><br>
