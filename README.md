@@ -122,5 +122,5 @@ Telegram - Comming Soon<br>
 <p align="center"> 
   Visitor Counter<br>
   <img src="https://profile-counter.glitch.me/tavignesh/count.svg" />
+  <a href="https://discord.gg/pDzrEyGpxE"><img src="https://discordapp.com/api/guilds/780625655657791518/widget.png?style=banner4"></a>
 </p>
-<center><a href="https://discord.gg/pDzrEyGpxE"><img src="https://discordapp.com/api/guilds/780625655657791518/widget.png?style=banner4"></a></center>
