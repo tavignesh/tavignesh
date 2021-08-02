@@ -40,7 +40,7 @@ Telegram - Comming Soon<br>
 <br><br>
 <br>
 <b>Usefull Links:</b><br>
-Discord - Vignesh_x64ᴰᵉᵛ#8888 <br>
+Discord - <a href="https://discord.com/users/641305773095387156">Vignesh_x64ᴰᵉᵛ#8888</a><br>
 Website - <a href="https://asteroidbot.xyz">AsteroidBot.xyz</a><br>
 Discord Server 1 - <a href="https://discord.gg/pDzrEyGpxE">Asteroid Support</a><br>
 Discord Server 2 - <a href="https://discord.gg/GWzQ5zqQeS">Asteroid Gaming</a><br>
