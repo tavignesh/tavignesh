@@ -103,6 +103,9 @@ Telegram - Comming Soon<br>
 <code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/870563705983762482/1200px-Repl.png" /></code>
 <code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/870558419147456512/873120.png" /></code>
 <code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/870564296185225216/arduino-logo-1.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/871612740421173318/discord-mascot.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/871613514102480916/mongodb.png" /></code>
+
 
 <b>My Github Stats:</b><br>
 <p align="center">
