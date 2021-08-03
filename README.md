@@ -107,6 +107,10 @@ Telegram - Comming Soon<br>
 <code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/871613514102480916/mongodb.png" /></code>
 <code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/871617492244643930/Xshell_6_logo.png" /></code>
 <code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/871617604974960710/GgpQzrIl_400x400-removebg-preview.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/872150841379938385/J2LlHqT3qJl0bG9Alpgc-1.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/872150962184286238/firebase-logo-402F407EE0-seeklogo.png" /></code>
+<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/872150877501259786/download.png" /></code>
+
 
 
 <b>My Github Stats:</b><br>
