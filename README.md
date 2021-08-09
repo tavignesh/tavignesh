@@ -54,6 +54,8 @@ Mail 1 - <a href="mailto:tavignesh@gmail.com">tavignesh2004@gmail.com</a><br>
 Mail 2 - <a href="mailto:vignesh@asteroidbot.xyz">vignesh@asteroidbot.xyz</a><br>
 Instagram - <a href="https://instagram.com/h4k3r_vignesh_ta">h4k3r_vignesh_ta</a><br>
 LinkedIn - <a href="https://www.linkedin.com/in/tavignesh/">tavignesh</a><br>
+Twitter - <a href="https://twitter.com/tavignesh">tavignesh</a><br>
+Twitter - <a href="https://twitter.com/Aster0id_Gaming">Aster0id_Gaming</a><br>
 Twitch - Comming Soon<br>
 Facebook - Comming Soon<br>
 Telegram - Comming Soon<br>
