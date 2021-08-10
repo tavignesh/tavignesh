@@ -28,11 +28,13 @@ That profile image is my real photo :) <br>
 A lot more OfC : ) <br>
 <br><br>
 📫 <b>How to reach me:</b><br>
+Discord - <a href="https://discord.com/users/641305773095387156">Vignesh_x64ᴰᵉᵛ#8888</a><br>
 Discord - <a href="https://discord.gg/pDzrEyGpxE">Discord Server</a>(Most Active)<br>
 Mail 1 - <a href="mailto:tavignesh@gmail.com">tavignesh2004@gmail.com</a><br>
 Mail 2 - <a href="mailto:vignesh@is-cool.cf">vignesh@is-cool.cf</a><br>
 Mail 3 - <a href="mailto:vignesh@asteroidbot.xyz">vignesh@asteroidbot.xyz</a><br>
 Website - <a href="https://asteroidbot.xyz">AsteroidBot.xyz</a><br>
+Carrd - <a href="https://tavignesh.carrd.co">tavignesh</a><br>
 YouTube -  (2nd Most active)<br>
 Twitch - Comming Soon<br>
 Instagram - <a href="https://instagram.com/h4k3r_vignesh_ta">h4k3r_vignesh_ta</a> (3rd Most active)<br>
@@ -56,6 +58,7 @@ Instagram - <a href="https://instagram.com/h4k3r_vignesh_ta">h4k3r_vignesh_ta</a
 LinkedIn - <a href="https://www.linkedin.com/in/tavignesh/">tavignesh</a><br>
 Twitter - <a href="https://twitter.com/tavignesh">tavignesh</a><br>
 Twitter - <a href="https://twitter.com/Aster0id_Gaming">Aster0id_Gaming</a><br>
+Carrd - <a href="https://tavignesh.carrd.co">tavignesh</a><br>
 Twitch - Comming Soon<br>
 Facebook - Comming Soon<br>
 Telegram - Comming Soon<br>
