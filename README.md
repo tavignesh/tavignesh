@@ -135,8 +135,6 @@ Telegram - Comming Soon<br>
   <img src="https://github.com/tavignesh/metrics/blob/master/github-metrics.svg" alt="stats" />
 </p>
 <br><br>
-
-<br><br>
 <b>NOTE: 'Most Used Languages' or 'tools used'  or any other info does not indicate my skill level or anything like that, it's just a github metric of which languages I have the most code on github.</b>
 <br>
 <p align="center"> 
