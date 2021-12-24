@@ -30,7 +30,7 @@ That profile image is my real photo :) <br>
 A lot more OfC : ) <br>
 <br><br>
 📫 <b>How to reach me:</b><br>
-<img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"></img> Discord - <a href="https://discord.com/users/641305773095387156">Vignesh_x64ᴰᵉᵛ#8888</a><br>
+<img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"></img> Discord - <a href="https://discord.com/users/641305773095387156">Vignesh_x64ᴰᵉᵛ#5380</a><br>
 <img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/> Discord - <a href="https://discord.gg/pDzrEyGpxE">Discord Server</a>(Most Active)<br>
 <img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/> Discord - <a href="https://discord.gg/GWzQ5zqQeS">Discord Server</a><br>
 <img align="left" alt="G-Mail" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877419668191711273/512px-Gmail_icon_28202029.png"/> Mail 1 - <a href="mailto:tavignesh@gmail.com">tavignesh2004@gmail.com</a><br>
