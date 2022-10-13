@@ -34,8 +34,8 @@ A lot more OfC : ) <br>
 <img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/> Discord - <a href="https://discord.gg/pDzrEyGpxE">Discord Server</a>(Most Active)<br>
 <img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/> Discord - <a href="https://discord.gg/GWzQ5zqQeS">Discord Server</a><br>
 <img align="left" alt="G-Mail" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877419668191711273/512px-Gmail_icon_28202029.png"/> Mail 1 - <a href="mailto:tavignesh@gmail.com">tavignesh2004@gmail.com</a><br>
-<img align="left" alt="Custom Mail" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877420270128889856/free-mail-icon-1008-thumb.png"/> Mail 3 - <a href="mailto:vignesh@asteroidbot.xyz">vignesh@asteroidbot.xyz</a><br>
-<img align="left" alt="Custom Mail" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877420986578899054/web-site-png-1-Transparent-Images.png"/> Website - <a href="https://asteroidbot.xyz">AsteroidBot.xyz</a><br>
+<img align="left" alt="Custom Mail" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877420270128889856/free-mail-icon-1008-thumb.png"/> Mail 3 - <a href="mailto:vignesh@teroid.tech">vignesh@teroid.tech</a><br>
+<img align="left" alt="Custom Mail" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877420986578899054/web-site-png-1-Transparent-Images.png"/> Website - <a href="https://teroid.tech">Teroid.Tech</a><br>
 <img align="left" alt="Carrd" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877421719848103936/image-removebg-preview.png"/> Carrd - <a href="https://tavignesh.carrd.co">tavignesh</a><br>
 <img align="left" alt="YouTube" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877422254684790804/youtube_logo_icon_147199.png"/> YouTube -  (2nd Most active)<br>
 <img align="left" alt="Twitch" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877422543135445052/twitch-logo-transparent-png-20.png"/> Twitch - Comming Soon<br>
@@ -48,7 +48,7 @@ A lot more OfC : ) <br>
 <img align="left" alt="LinkedIn" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877424671245631528/Linkedin-logo-icon-png.png"/> LinkedIn - <a href="https://www.linkedin.com/in/tavignesh/">tavignesh</a><br>
 <br><br>
 <b>My websites (Fully or Partially):</b><br>
-<a href="https://asteroidbot.xyz">AsteroidBot.xyz</a><br>
+<a href="https://teroid.tech">Teroid.tech</a><br>
 <a href="https://tavignesh.github.io">tavignesh.github.io</a><br>
 <a href="https://tavignesh.thedev.id">tavignesh.thedev.id</a><br>
 <a href="https://tavignesh.is-a.dev">tavignesh.is-a.dev</a><br>
