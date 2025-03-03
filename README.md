@@ -9,8 +9,7 @@ Currently badly oreiented lol pls wait for sm time i will fix it :)
 <br><br>
 I am Vignesh.T.A from India.<br>
 I code out of interest for fun and have developed a <a href="https://discord.gg/pDzrEyGpxE">Discord Bot - Asteroid</a> with Python and JavaScript both!!<br>
-I am a Gamer and love to play PC games. Wanna Play with me? Join me on [YouTube](link)<br>
-That profile image is my real photo :) <br>
+I love to play PC games. Wanna Play with me? Join me on Discord<br>
 <br><br>
 🔭 I know a handfull of programming languages and am a hobbyist in electronics and Arduino projects.<br>
 🔭 I’m currently working on a handfull projects of which Asteroid is one.<br>
