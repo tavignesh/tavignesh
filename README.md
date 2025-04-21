@@ -33,8 +33,8 @@ A lot more OfC : ) <br>
 <img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/> Discord - <a href="https://discord.gg/pDzrEyGpxE">Discord Server</a>(Most Active)<br>
 <img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/> Discord - <a href="https://discord.gg/GWzQ5zqQeS">Discord Server</a><br>
 <img align="left" alt="G-Mail" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877419668191711273/512px-Gmail_icon_28202029.png"/> Mail 1 - <a href="mailto:tavignesh@gmail.com">tavignesh2004@gmail.com</a><br>
-<img align="left" alt="Custom Mail" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877420270128889856/free-mail-icon-1008-thumb.png"/> Mail 3 - <a href="mailto:vignesh@teroid.tech">vignesh@teroid.tech</a><br>
-<img align="left" alt="Custom Mail" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877420986578899054/web-site-png-1-Transparent-Images.png"/> Website - <a href="https://teroid.tech">Teroid.Tech</a><br>
+<img align="left" alt="Custom Mail" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877420270128889856/free-mail-icon-1008-thumb.png"/> Mail 3 - <a href="mailto:contact@vigneshta.com">vignesh@teroid.tech</a><br>
+<img align="left" alt="Custom Mail" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877420986578899054/web-site-png-1-Transparent-Images.png"/> Website - <a href="https://vigneshta.com">Teroid.Tech</a><br>
 <img align="left" alt="Carrd" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877421719848103936/image-removebg-preview.png"/> Carrd - <a href="https://tavignesh.carrd.co">tavignesh</a><br>
 <img align="left" alt="YouTube" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877422254684790804/youtube_logo_icon_147199.png"/> YouTube -  (2nd Most active)<br>
 <img align="left" alt="Twitch" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877422543135445052/twitch-logo-transparent-png-20.png"/> Twitch - Comming Soon<br>
@@ -47,70 +47,16 @@ A lot more OfC : ) <br>
 <img align="left" alt="LinkedIn" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877424671245631528/Linkedin-logo-icon-png.png"/> LinkedIn - <a href="https://www.linkedin.com/in/tavignesh/">tavignesh</a><br>
 <br><br>
 <b>My websites (Fully or Partially):</b><br>
-<a href="https://teroid.tech">Teroid.tech</a><br>
+<a href="https://vigneshta.com">Teroid.tech</a><br>
 <a href="https://tavignesh.github.io">tavignesh.github.io</a><br>
 <a href="https://tavignesh.thedev.id">tavignesh.thedev.id</a><br>
 <a href="https://tavignesh.is-a.dev">tavignesh.is-a.dev</a><br>
 <a href="https://tavignesh.is-a-good.dev">tavignesh.is-a-good.dev</a><br>
-<a href="https://tavignesh.ml">tavignesh.cf</a><br>
-<a href="https://tavignesh.tk">tavignesh.tk</a><br>
-<a href="https://vignesh.stop-using.cf">vignesh.stop-using.cf</a><br>
 
 <br><br>
 <b>Languages, Software n Tools I Use</b><br>
 <br><br>
 <code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/856772702421647380/pycharm.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371362066759690/intelj.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371447036018728/webstorm.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371439023456306/u4e.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371438155104266/unity.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371438423670824/vsc.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/877428015527763978/1280px-Kali_Linux_2.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371432041381898/tightvnc.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371427267346452/terinal.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371422826627092/strmlabs.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371419377991710/stckovr.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371415884529676/python.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371408909533214/premierpro.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371407704457226/phpstorm.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371381922463774/php.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371375913074698/npp.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371370748575754/nodejs.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371370573725696/mspaint.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371364272570378/js.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371357580034058/html5.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371353259376650/github1.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371347542933564/git.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371341846937610/filezilla.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371338477600788/css3.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371330908454913/cocos.jpg" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371328613253140/c4d.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371321256312842/c.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371321680592916/c.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371310674083870/brave.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371303704068116/anydesk.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371298208219187/anaconda.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/855371295935430666/afterfx.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/867631248112091196/ptero.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/870563634110160896/3a54c241-a668-4c94-9747-3d3da9da3bf2.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/870563705983762482/1200px-Repl.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/870558419147456512/873120.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/870564296185225216/arduino-logo-1.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/871612740421173318/discord-mascot.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/871613514102480916/mongodb.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/871617492244643930/Xshell_6_logo.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/871617604974960710/GgpQzrIl_400x400-removebg-preview.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/872150841379938385/J2LlHqT3qJl0bG9Alpgc-1.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/872150962184286238/firebase-logo-402F407EE0-seeklogo.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/872150877501259786/download.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/871622307779600384/ShareX_Logo.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/872721831675695165/768px-OBS_Studio_Logo.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/873459592124833822/UTorrent_28logo29.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/877425276596936744/f0fcf351df4eb6786e9bb6fc4e2dee02.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/877425692705439764/rpcs3.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/877425946716680192/file-spotify-logo-png-4.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/877426308915789834/7126439_preview.png" /></code>
-<code><img height="35rem" src="https://cdn.discordapp.com/attachments/829651215235153954/877427404778389534/hwinfo.png" /></code>
 
 <br> The above list is Not in any kind of order <br>
 <b>My Github Stats:</b><br>
