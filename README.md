@@ -75,5 +75,5 @@ A lot more OfC : ) <br>
 <p align="center"> 
   Visitor Counter<br>
   <img src="https://profile-counter.glitch.me/tavignesh/count.svg" /><br>
-  <a href="https://discord.gg/pDzrEyGpxE"><img src="https://discordapp.com/api/guilds/780625655657791518/widget.png?style=banner4"></a>
+  <a href="https://discord.gg/GWzQ5zqQeS"><img src="https://discordapp.com/api/guilds/895145627523113000/widget.png?style=banner4"></a>
 </p>
