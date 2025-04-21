@@ -29,29 +29,20 @@ I love to play PC games. Wanna Play with me? Join me on Discord<br>
 A lot more OfC : ) <br>
 <br><br>
 📫 <b>How to reach me:</b><br>
-<img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"></img> Discord - <a href="https://discord.com/users/641305773095387156">Vignesh_x64ᴰᵉᵛ#5380</a><br>
-<img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/> Discord - <a href="https://discord.gg/pDzrEyGpxE">Discord Server</a>(Most Active)<br>
+<img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"></img> Discord - <a href="https://discord.com/users/641305773095387156">the_hkr_x64ᴰᵉᵛ</a><br>
 <img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/> Discord - <a href="https://discord.gg/GWzQ5zqQeS">Discord Server</a><br>
 <img align="left" alt="G-Mail" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877419668191711273/512px-Gmail_icon_28202029.png"/> Mail 1 - <a href="mailto:tavignesh@gmail.com">tavignesh2004@gmail.com</a><br>
-<img align="left" alt="Custom Mail" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877420270128889856/free-mail-icon-1008-thumb.png"/> Mail 3 - <a href="mailto:contact@vigneshta.com">vignesh@teroid.tech</a><br>
-<img align="left" alt="Custom Mail" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877420986578899054/web-site-png-1-Transparent-Images.png"/> Website - <a href="https://vigneshta.com">Teroid.Tech</a><br>
+<img align="left" alt="Custom Mail" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877420270128889856/free-mail-icon-1008-thumb.png"/> Mail 3 - <a href="mailto:contact@vigneshta.com">contact@vigneshta.com</a><br>
+<img align="left" alt="Custom Mail" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877420986578899054/web-site-png-1-Transparent-Images.png"/> Website - <a href="https://vigneshta.com">vigneshta.com</a><br>
 <img align="left" alt="Carrd" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877421719848103936/image-removebg-preview.png"/> Carrd - <a href="https://tavignesh.carrd.co">tavignesh</a><br>
 <img align="left" alt="YouTube" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877422254684790804/youtube_logo_icon_147199.png"/> YouTube -  (2nd Most active)<br>
-<img align="left" alt="Twitch" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877422543135445052/twitch-logo-transparent-png-20.png"/> Twitch - Comming Soon<br>
-<img align="left" alt="Xbox" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/879255901725392906/1200px-Xbox_one_logo.png"/> Xbox - tavignesh04<br>
-<img align="left" alt="Instagram" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877422830399160330/580b57fcd9996e24bc43c521.png"/> Instagram - <a href="https://instagram.com/h4k3r_vignesh_ta">h4k3r_vignesh_ta</a> (3rd Most active)<br>
+<img align="left" alt="Instagram" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877422830399160330/580b57fcd9996e24bc43c521.png"/> Instagram - <a href="https://instagram.com/the_hkr_v">the_hkr_v</a><br>
 <img align="left" alt="HackerRank" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877423127502651412/HackerRank_Icon-1000px.png"/> HackerRank - <a href="https://hackerrank.com/vigneshta004">vigneshta004</a><br>
-<img align="left" alt="Twitter" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877423485683646534/twitter-logo-vector-png-clipart-1.png"/> Twitter - <a href="https://twitter.com/tavignesh">tavignesh</a><br>
-<img align="left" alt="Twitter" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877423485683646534/twitter-logo-vector-png-clipart-1.png"/> Twitter - <a href="https://twitter.com/Aster0id_Gaming">Aster0id_Gaming</a><br>
-<img align="left" alt="Facebook" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877423799014936576/1024px-Facebook_Logo_28201929.png"/> Facebook - Comming Soon<br>
 <img align="left" alt="LinkedIn" width="26px" src="https://cdn.discordapp.com/attachments/829651215235153954/877424671245631528/Linkedin-logo-icon-png.png"/> LinkedIn - <a href="https://www.linkedin.com/in/tavignesh/">tavignesh</a><br>
 <br><br>
 <b>My websites (Fully or Partially):</b><br>
 <a href="https://vigneshta.com">Teroid.tech</a><br>
 <a href="https://tavignesh.github.io">tavignesh.github.io</a><br>
-<a href="https://tavignesh.thedev.id">tavignesh.thedev.id</a><br>
-<a href="https://tavignesh.is-a.dev">tavignesh.is-a.dev</a><br>
-<a href="https://tavignesh.is-a-good.dev">tavignesh.is-a-good.dev</a><br>
 
 <br><br>
 <b>Languages, Software n Tools I Use</b><br>
