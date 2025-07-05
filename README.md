@@ -26,8 +26,8 @@ I love to play PC games. Join me on Discord<br>
 🏀 Outdoor Games (Basketball, Badminton, Football, Volleyball)<br>
 A lot more OfC : ) <br>
 <br><br>
-<b>My websites (Fully or Partially):</b><br>
-<a href="https://vigneshta.com">vigneshta.com</a><br>
+<b>My websites:</b><br>
+<a href="https://vigneshta.com">vigneshta.com</a>   <- check this out if wanna know more about me..<br>
 <a href="https://tavignesh.github.io">tavignesh.github.io</a><br>
 
 <p align="center"> 
