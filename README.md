@@ -33,5 +33,5 @@ A lot more OfC : ) <br>
 <p align="center"> 
   Visitor Counter<br>
   <img src="https://profile-counter.glitch.me/tavignesh/count.svg" /><br>
-  Someone DDos-ed this Idk why.<br> Like WHYYYYYY?
+  Someone DDoS-ed this Idk why.<br> Like WHYYYYYY?
 </p>
